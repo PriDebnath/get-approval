@@ -1,0 +1,9 @@
+asgiref==3.8.1
+channels==4.1.0
+click==8.1.7
+Django==5.1
+django-cors-headers==4.4.0
+h11==0.14.0
+sqlparse==0.5.1
+uvicorn==0.30.6
+websockets==12.0
